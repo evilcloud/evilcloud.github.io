@@ -8,25 +8,33 @@ This is a personal website of the standard pre-posthumanist human.
 
 We are defined by the way the reader (here, in the structuralist tradition, I am talking about reading what we consider reality, which is in fact a representation of such) interprets the sets of symbols we project. We attempt to influence that perception by curating the collection of symbols, which we believe represents us. Below is my collection of symbols in no particular order and with no guarantee of stability:
 
-### Fields of academic inquiry:
+### Academic:
 
 - Post-humanism
 - HCI
 - Post-structuralism
 - Subcultures
 
-### Computing
+### Computing:
 
 - Python
 - Golang
 - Elm
-- Graph databases (incl. Cypher/GQL -- SPARQL)
-- AI, namely GANN and computational linguistics
+- zsh
+- Cypher/GQL -- SPARQL
+- GANN and computational linguistics
 
-### Aesthetics:
+### Aesthetic:
 
 - Japanese underground comics (60s, 70s, 80s)
 - Installation
+
+### Athletic:
+- ~~tri~~
+- Epeé
+
+### Ethic:
+Government is an institute of oppression vested with the exclusive right to exert violence against own citizens. Considering that the government is represented by individuals, who's position is relativley unstable, we are in the situation of unresolvable conflict of interests. 
 
 ## ITEMS
 
